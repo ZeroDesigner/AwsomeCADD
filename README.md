@@ -1,4 +1,7 @@
-# AwsomeCADD
+# AwesomeCADD
+
+标题少了一个e，可能是世界潜在地告诉我学习CADD不是那么easy。
+
 收集了一些CADD教程，资源总结 
 
 如有疏漏，烦请指正，邮箱：luskyqi@outlook.com
