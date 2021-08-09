@@ -3,6 +3,8 @@
 
 如有疏漏，烦请指正，邮箱：luskyqi@outlook.com
 
+感谢@Tong-Du 的贡献
+
 ## 药物设计综合软件
 1. Schrödinger：薛定谔公司，https://www.schrodinger.com/
 
@@ -150,3 +152,7 @@
 | ZeroDesigner | 图文 | ZeroDesigner | ZeroDesigner                                              | DrugSci | https://zerodesigner.cn/ | ZeroDesigner |
 
 
+## 其余教程资源总结
+
+1. 一系列开源的化学信息学资源：https://github.com/PatWalters/resources/blob/main/cheminformatics_resources.md 综合性较强，内含博客，教程，ML，Python工具等等，英文
+2. teachopencadd：https://github.com/volkamerlab/TeachOpenCADD 如果你是新手接触CADD，可以从这里入手，由初学者为了初学者创建，有paper 英文
