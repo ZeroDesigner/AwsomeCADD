@@ -88,9 +88,14 @@
 5. DOCK：官网：http://dock.compbio.ucsf.edu/
 
    + 论文：
-     1. 
+     1. DOCK 6: Allen WJ, Balius TE, Mukherjee S, Brozell SR, Moustakas DT, Lang PT, Case DA, Kuntz ID, Rizzo RC. DOCK 6: Impact of new features and current docking performance. J Comput Chem. 2015 Jun 5;36(15):1132-56. doi: 10.1002/jcc.23905. PMID: 25914306; PMCID: PMC4469538.
+     2. DOCK 3: Goodford PJ. A computational procedure for determining energetically favorable binding sites on biologically important macromolecules. J Med Chem. 1985 Jul;28(7):849-57. doi: 10.1021/jm00145a002. PMID: 3892003.
 7. LeDock：官网：http://www.lephar.com/software.htm
-8. GOLD：属于CCDC套装，官网：https://www.ccdc.cam.ac.uk/
+
+   + 论文：
+      1. 引用文献，非原始文献：Lee A, Kim D. CRDS: Consensus Reverse Docking System for target fishing. Bioinformatics. 2020 Feb 1;36(3):959-960. doi: 10.1093/bioinformatics/btz656. PMID: 31432077.
+      
+9. GOLD：属于CCDC套装，官网：https://www.ccdc.cam.ac.uk/
 
      + 论文：
          1. GOLD_2:Verdonk, Marcel & Cole, Jason & Hartshorn, Michael & Murray, Christopher & Taylor, Richard. (2003). Improved Protein–ligand docking using GOLD. Proteins. 52. 609-23. 10.1002/prot.10465. 
@@ -98,8 +103,16 @@
          3. CHEMPLP：Korb O, Stützle T, Exner TE. Empirical scoring functions for advanced protein-ligand docking with PLANTS. J Chem Inf Model. 2009 Jan;49(1):84-96. doi: 10.1021/ci800298z. PMID: 19125657.
 
 
-6. XP，SP：属于薛定谔：https://www.schrodinger.com/
-7. cdocker：属于DiscoveryStudio，官网：https://www.3ds.com/products-services/biovia/products/molecular-modeling-simulation/biovia-discovery-studio/
+6. Glide：属于薛定谔：https://www.schrodinger.com/
+
+   + 论文：
+       1. Friesner RA, Banks JL, Murphy RB, Halgren TA, Klicic JJ, Mainz DT, Repasky MP, Knoll EH, Shelley M, Perry JK, Shaw DE, Francis P, Shenkin PS. Glide: a new approach for rapid, accurate docking and scoring. 1. Method and assessment of docking accuracy. J Med Chem. 2004 Mar 25;47(7):1739-49. doi: 10.1021/jm0306430. PMID: 15027865.
+
+
+8. cdocker：属于DiscoveryStudio，官网：https://www.3ds.com/products-services/biovia/products/molecular-modeling-simulation/biovia-discovery-studio/
+
+   + 论文：
+       1. Gagnon JK, Law SM, Brooks CL 3rd. Flexible CDOCKER: Development and application of a pseudo-explicit structure-based docking method within CHARMM. J Comput Chem. 2016 Mar 30;37(8):753-62. doi: 10.1002/jcc.24259. Epub 2015 Dec 21. PMID: 26691274; PMCID: PMC4776757.
 
 | ID           | 类型      | Vina | AutoDock | DOCK | LeDock | GOLD | XP，SP | cdocker |
 | ------------ | --------- | ---- | -------- | ---- | ------ | ---- | ------ | ------- |
