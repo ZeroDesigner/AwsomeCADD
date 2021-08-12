@@ -68,10 +68,36 @@
 ## 小分子对接
 
 1. Vina：官网：http://vina.scripps.edu/
-2. AutoDock：官网：http://autodock.scripps.edu/
-3. DOCK：官网：http://dock.compbio.ucsf.edu/
-4. LeDock：官网：http://www.lephar.com/software.htm
-5. GOLD：属于CCDC套装，官网：https://www.ccdc.cam.ac.uk/
+
+   + 论文：
+     1. Vina 1.2.0: Eberhardt J, Santos-Martins D, Tillack A, Forli S. AutoDock Vina 1.2.0: New Docking Methods, Expanded Force Field, and Python Bindings. ChemRxiv. Cambridge: Cambridge Open Engage; 2021; This content is a preprint and has not been peer-reviewed.
+     2. Vina 1.1.2 :Trott O, Olson AJ. AutoDock Vina: improving the speed and accuracy of docking with a new scoring function, efficient optimization, and multithreading. J Comput Chem. 2010 Jan 30;31(2):455-61. doi: 10.1002/jcc.21334. PMID: 19499576; PMCID: PMC3041641.
+
+
+3. AutoDock：官网：http://autodock.scripps.edu/
+
+   + 论文：
+     1. AutoDock 4.2：Morris, G. M., Huey, R., Lindstrom, W., Sanner, M. F., Belew, R. K., Goodsell, D. S. and Olson, A. J. (2009) Autodock4 and AutoDockTools4: automated docking with selective receptor flexiblity. J. Computational Chemistry 2009, 16: 2785-91.
+     2. AutoDock 3 & 4：Morris, G. M., Goodsell, D. S., Halliday, R.S., Huey, R., Hart, W. E., Belew, R. K. and Olson, A. J. (1998), Automated Docking Using a Lamarckian Genetic Algorithm and and Empirical Binding Free Energy Function J. Computational Chemistry, 19: 1639-1662.
+     3. AutoDock 4 Scoring Function：Huey, R., Morris, G. M., Olson, A. J. and Goodsell, D. S. (2007), A Semiempirical Free Energy Force Field with Charge-Based Desolvation J. Computational Chemistry, 28: 1145-1152.
+     4. AutoDock 2.4：Morris, G. M., Goodsell, D. S., Huey, R. and Olson, A. J. (1996), Distributed automated docking of flexible ligands to proteins: Parallel applications of AutoDock 2.4 J. Computer-Aided Molecular Design, 10: 293-304.
+     5. AutoDock 1：Goodsell, D. S. and Olson, A. J. (1990), Automated Docking of Substrates to Proteins by Simulated Annealing Proteins:Structure, Function and Genetics., 8: 195-202.
+
+
+
+5. DOCK：官网：http://dock.compbio.ucsf.edu/
+
+   + 论文：
+     1. 
+7. LeDock：官网：http://www.lephar.com/software.htm
+8. GOLD：属于CCDC套装，官网：https://www.ccdc.cam.ac.uk/
+
+     + 论文：
+         1. GOLD_2:Verdonk, Marcel & Cole, Jason & Hartshorn, Michael & Murray, Christopher & Taylor, Richard. (2003). Improved Protein–ligand docking using GOLD. Proteins. 52. 609-23. 10.1002/prot.10465. 
+         2. GOLD_1:J ones G, Willett P, Glen RC, Leach AR, Taylor R. Development and validation of a genetic algorithm for flexible docking. J Mol Biol. 1997 Apr 4;267(3):727-48. doi: 10.1006/jmbi.1996.0897. PMID: 9126849.
+         3. CHEMPLP：Korb O, Stützle T, Exner TE. Empirical scoring functions for advanced protein-ligand docking with PLANTS. J Chem Inf Model. 2009 Jan;49(1):84-96. doi: 10.1021/ci800298z. PMID: 19125657.
+
+
 6. XP，SP：属于薛定谔：https://www.schrodinger.com/
 7. cdocker：属于DiscoveryStudio，官网：https://www.3ds.com/products-services/biovia/products/molecular-modeling-simulation/biovia-discovery-studio/
 
