@@ -44,6 +44,10 @@
 
 1. PyMol：分为开源和免费两个版本，建议从官网下载：https://pymol.org/2/，官网教程：https://pymolwiki.org/index.php/Main_Page
 
+   + 论文：
+     1.  The PyMOL Molecular Graphics System, Version 1.2r3pre, Schrödinger, LLC.
+
+
 | ID           | 类型      | B站          | 知乎                             | 公众号             | 个人网站                         |
 | ------------ | --------- | ------------ | -------------------------------- | ------------------ | -------------------------------- |
 | ZeroDesigner | 视频+图文 | ZeroDesigner | ZeroDesigner                     | DrugSci            | https://zerodesigner.cn/         |
@@ -55,11 +59,18 @@
 
 2. Chimera：开源 ，http://www.cgl.ucsf.edu/chimera/，官网使用手册：http://www.cgl.ucsf.edu/chimera/docindex.html
 
+   + 论文：
+     1.  Pettersen EF, Goddard TD, Huang CC, Couch GS, Greenblatt DM, Meng EC, Ferrin TE. UCSF Chimera--a visualization system for exploratory research and analysis. J Comput Chem. 2004 Oct;25(13):1605-12. doi: 10.1002/jcc.20084. PMID: 15264254.
+
+
 | ID     | 类型 | B站    | 知乎 | 公众号 | 个人网站 |
 | ------ | ---- | ------ | ---- | ------ | -------- |
 | 钰沐菡 | 视频 | 钰沐菡 | 暂无 | 钰沐菡 | 暂无     |
 
 3. VMD：开源，https://www.ks.uiuc.edu/Research/vmd/
+
+   + 论文：
+     1. Humphrey W, Dalke A, Schulten K. VMD: visual molecular dynamics. J Mol Graph. 1996 Feb;14(1):33-8, 27-8. doi: 10.1016/0263-7855(96)00018-5. PMID: 8744570.
 
 | ID     | 类型 | B站  | 知乎 | 公众号 | 个人网站                            |
 | ------ | ---- | ---- | ---- | ------ | ----------------------------------- |
@@ -124,6 +135,8 @@
 
 1. Gromacs：官网：www.gromacs.org
 
+   + 论文：
+       1. Van Der Spoel D, Lindahl E, Hess B, Groenhof G, Mark AE, Berendsen HJ. GROMACS: fast, flexible, and free. J Comput Chem. 2005 Dec;26(16):1701-18. doi: 10.1002/jcc.20291. PMID: 16211538.
 | ID         | 类型      | B站        | 知乎                             | 公众号             | 个人网站                   |
 | ---------- | --------- | ---------- | -------------------------------- | ------------------ | -------------------------- |
 | 李继存     | 图文      | 暂无       | 暂无                             | 暂无               | https://jerkwin.github.io/ |
@@ -132,9 +145,16 @@
 
 2. Amber：官网：http://ambermd.org/
 
+   + 论文：
+       1. R. Salomon-Ferrer, D.A. Case, R.C. Walker. An overview of the Amber biomolecular simulation package. WIREs Comput. Mol. Sci. 3, 198-210 (2013). 
+       
 暂无，待补充
 
 3. NAMD：官网：https://www.ks.uiuc.edu/Research/namd/
+
+   + 论文：
+       1.  James C. Phillips, Rosemary Braun, Wei Wang, James Gumbart, Emad Tajkhorshid, Elizabeth Villa, Christophe Chipot, Robert D. Skeel, Laxmikant Kale, and Klaus Schulten. Journal of Computational Chemistry, 26:1781-1802, 2005. 
+
 
 | ID             | 类型      | B站  | 知乎           | 公众号 | 个人网站 |
 | -------------- | --------- | ---- | -------------- | ------ | -------- |
@@ -143,6 +163,10 @@
 
 4. OpenMM：官网：https://openmm.org/
 
+
+   + 论文：
+       1.  Eastman P, Swails J, Chodera JD, McGibbon RT, Zhao Y, Beauchamp KA, Wang LP, Simmonett AC, Harrigan MP, Stern CD, Wiewiora RP, Brooks BR, Pande VS. OpenMM 7: Rapid development of high performance algorithms for molecular dynamics. PLoS Comput Biol. 2017 Jul 26;13(7):e1005659. doi: 10.1371/journal.pcbi.1005659. PMID: 28746339; PMCID: PMC5549999. 
+       
 | ID           | 类型      | B站          | 知乎         | 公众号  | 个人网站                 |
 | ------------ | --------- | ------------ | ------------ | ------- | ------------------------ |
 | ZeroDesigner | 视频+图文 | ZeroDesigner | ZeroDesigner | DrugSci | https://zerodesigner.cn/ |
@@ -152,6 +176,9 @@
 暂无
 
 6. Desmond：官网：https://www.deshawresearch.com/resources_desmond.html
+
+   + 论文：
+       1. https://www.deshawresearch.com/publications.html
 
 | ID             | 类型      | B站  | 知乎           | 公众号 | 个人网站 |
 | -------------- | --------- | ---- | -------------- | ------ | -------- |
@@ -171,11 +198,17 @@
 
 1. Rosetta
 
+   + 论文：
+       1. http://new.rosettacommons.org/docs/latest/getting_started/Rosetta-canon
+
 | ID     | 类型      | B站  | 知乎 | 公众号        | 个人网站              |
 | ------ | --------- | ---- | ---- | ------------- | --------------------- |
 | 吴炜坤 | 视频+图文 | 暂无 | 谷雨 | ROSETTA研习社 | http://139.155.25.244 |
 
 2. AlphaFold
+
+   + 论文：
+       1. Jumper, J., Evans, R., Pritzel, A. et al. Highly accurate protein structure prediction with AlphaFold. Nature (2021). https://doi.org/10.1038/s41586-021-03819-2
 
 | ID     | 类型      | B站  | 知乎 | 公众号 | 个人网站              |
 | ------ | --------- | ---- | ---- | ------ | --------------------- |
@@ -193,12 +226,18 @@
 
 1. Rdkit：C++，python，官网：https://rdkit.org
 
+   + 论文：
+       1. RDKit: Open-source cheminformatics; http://www.rdkit.org
+
 | ID           | 类型 | B站          | 知乎                                                      | 公众号  | 个人网站                 | CSDN         |
 | ------------ | ---- | ------------ | --------------------------------------------------------- | ------- | ------------------------ | ------------ |
 | AspirinCode  | 图文 | 暂无         | [Aspirin](https://www.zhihu.com/people/wang-jian-min-113) | DrugAI  | 暂无                     | DrugAI       |
 | ZeroDesigner | 图文 | ZeroDesigner | ZeroDesigner                                              | DrugSci | https://zerodesigner.cn/ | ZeroDesigner |
 
 2. OpenBabel:官网：http://openbabel.org/wiki/Main_Page
+
+   + 论文：
+       1. O'Boyle NM, Banck M, James CA, Morley C, Vandermeersch T, Hutchison GR. Open Babel: An open chemical toolbox. J Cheminform. 2011 Oct 7;3:33. doi: 10.1186/1758-2946-3-33. PMID: 21982300; PMCID: PMC3198950.
 
 | ID           | 类型 | B站          | 知乎                                                      | 公众号  | 个人网站                 | CSDN         |
 | ------------ | ---- | ------------ | --------------------------------------------------------- | ------- | ------------------------ | ------------ |
