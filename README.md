@@ -137,6 +137,7 @@
 
    + 论文：
        1. Van Der Spoel D, Lindahl E, Hess B, Groenhof G, Mark AE, Berendsen HJ. GROMACS: fast, flexible, and free. J Comput Chem. 2005 Dec;26(16):1701-18. doi: 10.1002/jcc.20291. PMID: 16211538.
+      
 | ID         | 类型      | B站        | 知乎                             | 公众号             | 个人网站                   |
 | ---------- | --------- | ---------- | -------------------------------- | ------------------ | -------------------------- |
 | 李继存     | 图文      | 暂无       | 暂无                             | 暂无               | https://jerkwin.github.io/ |
