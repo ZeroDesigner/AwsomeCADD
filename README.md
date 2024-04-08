@@ -38,7 +38,7 @@
 
 | ID           | 类型      | B站          | 知乎         | 公众号  | 个人网站                 |
 | ------------ | --------- | ------------ | ------------ | ------- | ------------------------ |
-| ZeroDesigner | 视频+图文 | ZeroDesigner | ZeroDesigner | DrugSci | https://zerodesigner.cn/ |
+| ZeroDesigner | 视频+图文 | ZeroDesigner | ZeroDesigner | DrugScience | https://zerodesigner.cn/ |
 
 ## 三维可视化工具
 
@@ -50,7 +50,7 @@
 
 | ID           | 类型      | B站          | 知乎                             | 公众号             | 个人网站                         |
 | ------------ | --------- | ------------ | -------------------------------- | ------------------ | -------------------------------- |
-| ZeroDesigner | 视频+图文 | ZeroDesigner | ZeroDesigner                     | DrugSci            | https://zerodesigner.cn/         |
+| ZeroDesigner | 视频+图文 | ZeroDesigner | ZeroDesigner                     | DrugScience            | https://zerodesigner.cn/         |
 | 钰沐菡       | 视频      | 钰沐菡       | 暂无                             | 钰沐菡             | 暂无                             |
 | 北极星max    | 视频      | 北极星max    | 暂无                             | 暂无               | 暂无                             |
 | 甜橙zzz      | 视频      | 甜橙zzz      | 暂无                             | 暂无               | 暂无                             |
@@ -170,7 +170,7 @@
        
 | ID           | 类型      | B站          | 知乎         | 公众号  | 个人网站                 |
 | ------------ | --------- | ------------ | ------------ | ------- | ------------------------ |
-| ZeroDesigner | 视频+图文 | ZeroDesigner | ZeroDesigner | DrugSci | https://zerodesigner.cn/ |
+| ZeroDesigner | 视频+图文 | ZeroDesigner | ZeroDesigner | DrugScience | https://zerodesigner.cn/ |
 
 5. Charmm：官网：https://www.charmm.org
 
@@ -233,7 +233,7 @@
 | ID           | 类型 | B站          | 知乎                                                      | 公众号  | 个人网站                 | CSDN         |
 | ------------ | ---- | ------------ | --------------------------------------------------------- | ------- | ------------------------ | ------------ |
 | AspirinCode  | 图文 | 暂无         | [Aspirin](https://www.zhihu.com/people/wang-jian-min-113) | DrugAI  | 暂无                     | DrugAI       |
-| ZeroDesigner | 图文 | ZeroDesigner | ZeroDesigner                                              | DrugSci | https://zerodesigner.cn/ | ZeroDesigner |
+| ZeroDesigner | 图文 | ZeroDesigner | ZeroDesigner                                              | DrugScience | https://zerodesigner.cn/ | ZeroDesigner |
 
 2. OpenBabel:官网：http://openbabel.org/wiki/Main_Page
 
@@ -243,7 +243,7 @@
 | ID           | 类型 | B站          | 知乎                                                      | 公众号  | 个人网站                 | CSDN         |
 | ------------ | ---- | ------------ | --------------------------------------------------------- | ------- | ------------------------ | ------------ |
 | AspirinCode  | 图文 | 暂无         | [Aspirin](https://www.zhihu.com/people/wang-jian-min-113) | DrugAI  | 暂无                     | DrugAI       |
-| ZeroDesigner | 图文 | ZeroDesigner | ZeroDesigner                                              | DrugSci | https://zerodesigner.cn/ | ZeroDesigner |
+| ZeroDesigner | 图文 | ZeroDesigner | ZeroDesigner                                              | DrugScience | https://zerodesigner.cn/ | ZeroDesigner |
 
 
 ## 其余教程资源总结
